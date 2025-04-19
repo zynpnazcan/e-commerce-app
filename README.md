@@ -1,2 +1,2 @@
-# e-commerce-app
-merhaba 
+# e-commerce-app.
+merhaba
